@@ -44,7 +44,7 @@
 }
 
 .body {
-	background-image: url("background1.jpg");
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrJw_yWlC5d_TmYbcW5HcPR9SKazcmRFgjsTFqDNMWFF1EPVn8g");
 }
 </style>
 </head>
