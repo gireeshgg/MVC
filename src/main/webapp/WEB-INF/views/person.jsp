@@ -43,12 +43,12 @@
 	background-color: #f9f9f9
 }
 
-.body {
+body {
 	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrJw_yWlC5d_TmYbcW5HcPR9SKazcmRFgjsTFqDNMWFF1EPVn8g");
 }
 </style>
 </head>
-<body background="background1.jpg">
+<body>
 	<h1>Add a Person</h1>
 
 	<c:url var="addAction" value="/person/add"></c:url>
