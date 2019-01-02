@@ -42,6 +42,7 @@
 .tg .tg-4eph {
 	background-color: #f9f9f9;
 	color:white;
+	
 }
 
 body {
@@ -50,6 +51,7 @@ body {
 </style>
 </head>
 <body>
+<center>
 	<h1>Add a Person</h1>
 
 	<c:url var="addAction" value="/person/add"></c:url>
