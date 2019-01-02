@@ -45,7 +45,7 @@
 }
 
 body {
-	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPrJw_yWlC5d_TmYbcW5HcPR9SKazcmRFgjsTFqDNMWFF1EPVn8g");
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC0utor2qZXsXvwdNqnv5V3IRv7l0uWi4b8zq8MvhRVGWZonuATw");
 }
 </style>
 </head>
